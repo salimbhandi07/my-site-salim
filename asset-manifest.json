@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-site-salim/static/css/main.b0b0631b.chunk.css",
+    "main.js": "/my-site-salim/static/js/main.7479216c.chunk.js",
+    "main.js.map": "/my-site-salim/static/js/main.7479216c.chunk.js.map",
+    "runtime-main.js": "/my-site-salim/static/js/runtime-main.194f32f6.js",
+    "runtime-main.js.map": "/my-site-salim/static/js/runtime-main.194f32f6.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/my-site-salim/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.03a89efe.chunk.js": "/my-site-salim/static/js/2.03a89efe.chunk.js",
+    "static/js/2.03a89efe.chunk.js.map": "/my-site-salim/static/js/2.03a89efe.chunk.js.map",
+    "index.html": "/my-site-salim/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/my-site-salim/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.b0b0631b.chunk.css.map": "/my-site-salim/static/css/main.b0b0631b.chunk.css.map",
+    "static/js/2.03a89efe.chunk.js.LICENSE.txt": "/my-site-salim/static/js/2.03a89efe.chunk.js.LICENSE.txt",
+    "static/media/android.ee1d9508.jpeg": "/my-site-salim/static/media/android.ee1d9508.jpeg",
+    "static/media/app.8714f365.jpeg": "/my-site-salim/static/media/app.8714f365.jpeg",
+    "static/media/digital.dad8270c.jpeg": "/my-site-salim/static/media/digital.dad8270c.jpeg",
+    "static/media/hero-img.53f1b546.png": "/my-site-salim/static/media/hero-img.53f1b546.png",
+    "static/media/img2.d12e2a27.svg": "/my-site-salim/static/media/img2.d12e2a27.svg",
+    "static/media/marketing.f629aa39.jpg": "/my-site-salim/static/media/marketing.f629aa39.jpg",
+    "static/media/s1.8e51e67d.jpg": "/my-site-salim/static/media/s1.8e51e67d.jpg",
+    "static/media/software.1cb4dc77.jpeg": "/my-site-salim/static/media/software.1cb4dc77.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.194f32f6.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.03a89efe.chunk.js",
+    "static/css/main.b0b0631b.chunk.css",
+    "static/js/main.7479216c.chunk.js"
+  ]
+}
